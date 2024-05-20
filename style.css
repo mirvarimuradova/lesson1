@@ -1,0 +1,33 @@
+.input2{
+width: 220px;
+height: 30px;
+border-radius: 3px;
+border: 1px solid ;
+}
+.name{
+    margin-right: 10px;
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+    border: 1px solid;
+}
+
+.submit{
+    width: 220px;
+    height: 30px;
+    border-radius: 3px;
+    background-color: black;
+    color: #fff;
+    margin-left: 5px;
+}
+.submit:hover{
+    background-color: rgb(39, 158, 243);
+    transition-duration: 0.5s;
+    color: #fff;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div{
+    width: 230px;
+}
